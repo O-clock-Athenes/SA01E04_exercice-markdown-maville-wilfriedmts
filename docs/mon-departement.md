@@ -39,5 +39,4 @@ La Drôme provençale est une région du département de la Drôme qui s'étend 
 
 ![Drome Provencale](./images/ladrome.jpg)
 
-|[Retour à l'accueil](index.md)|[Valence](ma-ville.md)|[La région ARA](ma-region.md)|
-|--|--|--|
+➡️ [Retour à l'accueil](index.md) ➡️ [Valence](ma-ville.md) ➡️ [La région ARA](ma-region.md)

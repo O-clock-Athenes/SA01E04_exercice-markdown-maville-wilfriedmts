@@ -24,5 +24,4 @@ Du massif central aux alpes, en passant par les monts du Lyonnais et le Vercors 
 >
 >Bien que dans la même région, les villes d'Annecy et Aurillac sont distantes de 275 km à vol d'oiseau. Cependant il ne faut pas moins de 8 heures de train pour les relier. :train2:
 
-|[Retour à l'accueil](index.md)|[Valence](ma-ville.md)|[La Drôme](mon-departement.md)|
-|--|--|--|
+➡️ [Retour à l'accueil](index.md) ➡️ [Valence](ma-ville.md) ➡️ [La Drôme](mon-departement.md)

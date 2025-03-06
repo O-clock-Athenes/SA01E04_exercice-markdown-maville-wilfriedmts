@@ -36,5 +36,4 @@ De fait, la ville est jeune et de nombreuses activités sont organisées pour le
 
 ![Valence](./images/valence4.jpg)
 
-|[Retour à l'accueil](index.md)|[La Drôme](mon-departement.md)|[La région ARA](ma-region.md)|
-|--|--|--|
+➡️ [Retour à l'accueil](index.md) ➡️ [La Drôme](mon-departement.md) ➡️ [La région ARA](ma-region.md)
