@@ -8,7 +8,7 @@ Ayant grandi en région parisienne, je m'installe à Valence en 2013 pour des ra
 
 Je découvre alors une ville à taille humaine, où il fait bon vivre.
 
-C'est aujourd'hui ma ville de :heart: et je vous invite à la découvrir dans les pages suivantes !
+C'est aujourd'hui ma ville de ❤️ et je vous invite à la découvrir dans les pages suivantes !
 
 ![Valence](./images/valence.jpg)
 

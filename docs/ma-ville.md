@@ -16,9 +16,9 @@ Dynamique et situé dans un bassin d'emploi important, la ville de ***Valence***
 
 ## La gastronomie
 
-Valence, c'est aussi la capitale de la gastronomie. Avec la présence de nombreux chefs étoilés, la ville est réputée pour sa cuisine raffinée et ses produits locaux.
+Valence, c'est aussi la capitale de la gastronomie. 🍛 Avec la présence de nombreux chefs étoilés, la ville est réputée pour sa cuisine raffinée et ses produits locaux.
 
-D'***Anne Sophie Pic***, en passant par ***Michel Chabran***, ou encore ***Baptise Poinot***, les grands noms étoilés de la cuisine française sont présents à Valence.
+D'***Anne Sophie Pic***, en passant par ***Michel Chabran***, ou encore ***Baptise Poinot***, les grands noms étoilés ⭐ de la cuisine française sont présents à Valence.
 
 >**Le saviez-vous ?**
 >
@@ -28,7 +28,7 @@ D'***Anne Sophie Pic***, en passant par ***Michel Chabran***, ou encore ***Bapti
 
 ## Une ville dynamique
 
-Du Rallye Monte Carlo historique, au festival de la gastronomie, en passant par les différentes courses cyclistes et les concerts, il y en a pour tous les goûts.
+Du Rallye Monte Carlo historique, au festival de la gastronomie, en passant par les différentes courses cyclistes 🚴 et les concerts, il y en a pour tous les goûts.
 
 ***Valence*** est également une ville étudiante, avec un campus universitaire important qui compte de nombreuses écoles supérieures de lettres et droit, ainsi que des STAPS et d'ingénieurs.
 
